@@ -1,10 +1,13 @@
 📝 To-Do List App (JavaScript Practice)
 A simple, interactive to-do list application built with JavaScript to practice core web development concepts like DOM manipulation, event handling, and localStorage for data persistence.
 
-✨ Features
+✨ Features:
 ✅ Add tasks – Write and save your to-do items.
+
 ❌ Delete tasks – Remove completed/unwanted tasks with a click.
+
 ✔️ Mark as complete – Toggle tasks to track progress.
+
 💾 Auto-save – Tasks persist even after page refresh (thanks to localStorage).
 
 🛠️ Tech Stack
@@ -24,6 +27,7 @@ Start managing your tasks!
 📸 Preview
 
 ![image](https://github.com/user-attachments/assets/403308f7-3b2e-4454-88c0-20936e305b17)
+
 ![image](https://github.com/user-attachments/assets/9f3a4462-9458-47f6-9b04-2e129035505a)
 
 💡 Why This Project?
